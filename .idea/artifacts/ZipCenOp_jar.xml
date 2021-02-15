@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="ZipCenOp:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ZipCenOp_jar</output-path>
+    <root id="archive" name="ZipCenOp.jar">
+      <element id="module-output" name="ZipCenOp" />
+    </root>
+  </artifact>
+</component>
